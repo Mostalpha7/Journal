@@ -1,4 +1,4 @@
-# journal
+# Journal
 Building a journal app with flutter and firebase
 
 A new Flutter project.
