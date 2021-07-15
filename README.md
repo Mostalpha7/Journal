@@ -1,5 +1,5 @@
 # journal
-Building a crud app with flutter an firebase
+Building a journal app with flutter and firebase
 
 A new Flutter project.
 
